@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bb1ebfb7-04e8-43a2-a50f-d062f1d0d411" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="struts_2_5" />
+        <option value="struts-config" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Q108QiIv2szS3VBtkrSDEn6i7C" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sekha\IdeaProjects\SEKHAR\src\beginerCodes" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.test">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Codechef" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JulyChallenge.Codechef" />
+      <module name="SEKHAR" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JulyChallenge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CodechefSwap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JulyChallenge.CodechefSwap" />
+      <module name="SEKHAR" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JulyChallenge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Product" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JulyChallenge.Product" />
+      <module name="SEKHAR" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JulyChallenge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="first" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JulyChallenge.first" />
+      <module name="SEKHAR" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JulyChallenge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetCode.test" />
+      <module name="SEKHAR" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetCode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.first" />
+      <item itemvalue="Application.Codechef" />
+      <item itemvalue="Application.CodechefSwap" />
+      <item itemvalue="Application.Product" />
+      <item itemvalue="Application.test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.Product" />
+        <item itemvalue="Application.CodechefSwap" />
+        <item itemvalue="Application.Codechef" />
+        <item itemvalue="Application.first" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bb1ebfb7-04e8-43a2-a50f-d062f1d0d411" name="Default" comment="" />
+      <created>1521648049515</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1521648049515</updated>
+      <workItem from="1521648058039" duration="1347000" />
+      <workItem from="1554665494989" duration="67000" />
+      <workItem from="1554669511768" duration="3027000" />
+      <workItem from="1554702922767" duration="1776000" />
+      <workItem from="1554707535360" duration="1699000" />
+      <workItem from="1554731172727" duration="3778000" />
+      <workItem from="1554831769836" duration="6826000" />
+      <workItem from="1555394370350" duration="2692000" />
+      <workItem from="1555428946369" duration="1564000" />
+      <workItem from="1555445702303" duration="3041000" />
+      <workItem from="1556255708082" duration="1893000" />
+      <workItem from="1558790773929" duration="5473000" />
+      <workItem from="1559481096498" duration="975000" />
+      <workItem from="1559487373896" duration="2947000" />
+      <workItem from="1559498822368" duration="1728000" />
+      <workItem from="1559672436791" duration="1008000" />
+      <workItem from="1560027345717" duration="4177000" />
+      <workItem from="1562342796994" duration="605000" />
+      <workItem from="1562404496910" duration="5164000" />
+      <workItem from="1562436695536" duration="7135000" />
+      <workItem from="1562479664776" duration="5123000" />
+      <workItem from="1562505403539" duration="626000" />
+      <workItem from="1562781374878" duration="5641000" />
+      <workItem from="1562834926817" duration="2485000" />
+      <workItem from="1562939493371" duration="5521000" />
+      <workItem from="1563006718618" duration="1069000" />
+      <workItem from="1563010144338" duration="652000" />
+      <workItem from="1563041782975" duration="4780000" />
+      <workItem from="1563119142812" duration="9812000" />
+      <workItem from="1563185491377" duration="18000" />
+      <workItem from="1563300896347" duration="1220000" />
+      <workItem from="1563468993516" duration="2011000" />
+      <workItem from="1563725430983" duration="5214000" />
+      <workItem from="1563896768217" duration="3473000" />
+      <workItem from="1564238787600" duration="7920000" />
+      <workItem from="1564765296585" duration="13000" />
+      <workItem from="1564848797712" duration="5116000" />
+      <workItem from="1566052002022" duration="3318000" />
+      <workItem from="1566144467241" duration="9975000" />
+      <workItem from="1566235739063" duration="1300000" />
+      <workItem from="1566297810837" duration="2376000" />
+      <workItem from="1566481594795" duration="337000" />
+      <workItem from="1566922637608" duration="2189000" />
+      <workItem from="1567007441386" duration="3357000" />
+      <workItem from="1567106929731" duration="4470000" />
+      <workItem from="1567264522641" duration="1564000" />
+      <workItem from="1567338493191" duration="3955000" />
+      <workItem from="1567786578422" duration="16680000" />
+      <workItem from="1567841756827" duration="3857000" />
+      <workItem from="1567885311986" duration="4311000" />
+      <workItem from="1567934522603" duration="1991000" />
+      <workItem from="1567975267245" duration="183000" />
+      <workItem from="1568031596224" duration="1264000" />
+      <workItem from="1568054343310" duration="7658000" />
+      <workItem from="1568204599166" duration="10454000" />
+      <workItem from="1568299380198" duration="17399000" />
+      <workItem from="1568450316114" duration="31819000" />
+      <workItem from="1568648181673" duration="21000" />
+      <workItem from="1568893855527" duration="5500000" />
+      <workItem from="1568996184313" duration="2200000" />
+      <workItem from="1569089470112" duration="82000" />
+      <workItem from="1569167713264" duration="3886000" />
+      <workItem from="1569178944526" duration="624000" />
+      <workItem from="1569688062111" duration="8234000" />
+      <workItem from="1570048687029" duration="557000" />
+      <workItem from="1570099128668" duration="25000" />
+      <workItem from="1570262198701" duration="5843000" />
+      <workItem from="1570272873209" duration="11843000" />
+      <workItem from="1570354691628" duration="810000" />
+      <workItem from="1570370326273" duration="9701000" />
+      <workItem from="1570482087234" duration="5150000" />
+      <workItem from="1570526941990" duration="9695000" />
+      <workItem from="1570559797487" duration="8673000" />
+      <workItem from="1570600249671" duration="1200000" />
+      <workItem from="1570897167307" duration="10056000" />
+      <workItem from="1570956146308" duration="50000" />
+      <workItem from="1570983197492" duration="11530000" />
+      <workItem from="1571150744746" duration="2266000" />
+      <workItem from="1571227252537" duration="4587000" />
+      <workItem from="1571309473912" duration="21094000" />
+      <workItem from="1572042575084" duration="1286000" />
+      <workItem from="1572275950341" duration="890000" />
+      <workItem from="1572967656084" duration="608000" />
+      <workItem from="1572968645846" duration="1198000" />
+      <workItem from="1573289084458" duration="12029000" />
+      <workItem from="1573450476288" duration="4491000" />
+      <workItem from="1573735913227" duration="1206000" />
+      <workItem from="1575142898734" duration="1213000" />
+      <workItem from="1575312528664" duration="289000" />
+      <workItem from="1575814103830" duration="4234000" />
+      <workItem from="1575834149909" duration="2331000" />
+      <workItem from="1577965422955" duration="21000" />
+      <workItem from="1578418622303" duration="4432000" />
+      <workItem from="1578649888159" duration="700000" />
+      <workItem from="1578747531806" duration="15000" />
+      <workItem from="1578757744945" duration="1021000" />
+      <workItem from="1578770132580" duration="27319000" />
+      <workItem from="1579707329423" duration="9025000" />
+      <workItem from="1579963430948" duration="5012000" />
+      <workItem from="1580216080760" duration="17000" />
+      <workItem from="1580924108534" duration="4319000" />
+      <workItem from="1580980890359" duration="17723000" />
+      <workItem from="1581436621566" duration="16000" />
+      <workItem from="1582396951086" duration="2070000" />
+      <workItem from="1582656733285" duration="17000" />
+      <workItem from="1582985323149" duration="4461000" />
+      <workItem from="1582992698402" duration="39000" />
+      <workItem from="1584115750778" duration="6068000" />
+      <workItem from="1584801470044" duration="99764000" />
+      <workItem from="1586346321284" duration="15947000" />
+      <workItem from="1586586982063" duration="36712000" />
+      <workItem from="1586778368948" duration="8206000" />
+      <workItem from="1586956462959" duration="132000" />
+      <workItem from="1587220667170" duration="4110000" />
+      <workItem from="1587311413982" duration="6872000" />
+      <workItem from="1587398361969" duration="4778000" />
+      <workItem from="1587731963220" duration="1075000" />
+      <workItem from="1587804550218" duration="1822000" />
+      <workItem from="1587823423952" duration="8151000" />
+      <workItem from="1587996986935" duration="12000" />
+      <workItem from="1588326821303" duration="4156000" />
+      <workItem from="1588332570051" duration="17210000" />
+      <workItem from="1588427811191" duration="19773000" />
+      <workItem from="1588532092964" duration="14951000" />
+      <workItem from="1588960863342" duration="4425000" />
+      <workItem from="1589008951996" duration="596000" />
+      <workItem from="1589022462127" duration="17842000" />
+      <workItem from="1589128876937" duration="8846000" />
+      <workItem from="1589182813621" duration="5269000" />
+      <workItem from="1589997123569" duration="11000" />
+      <workItem from="1590298332173" duration="4466000" />
+      <workItem from="1590430244313" duration="597000" />
+      <workItem from="1590762956195" duration="18696000" />
+      <workItem from="1591028457209" duration="601000" />
+      <workItem from="1591284051120" duration="10174000" />
+      <workItem from="1591356248045" duration="5071000" />
+      <workItem from="1591548523900" duration="622000" />
+      <workItem from="1591626089043" duration="10455000" />
+      <workItem from="1591717733318" duration="10185000" />
+      <workItem from="1591788313731" duration="7202000" />
+      <workItem from="1591806267123" duration="7315000" />
+      <workItem from="1591861110463" duration="4003000" />
+      <workItem from="1591984103212" duration="2518000" />
+      <workItem from="1592149439661" duration="502000" />
+      <workItem from="1592156843710" duration="1247000" />
+      <workItem from="1592205703300" duration="8326000" />
+      <workItem from="1592286741370" duration="353000" />
+      <workItem from="1592473292619" duration="4056000" />
+      <workItem from="1592494050711" duration="8009000" />
+      <workItem from="1592588995566" duration="598000" />
+      <workItem from="1593083921078" duration="1872000" />
+      <workItem from="1593843185161" duration="4862000" />
+      <workItem from="1593928101758" duration="10449000" />
+      <workItem from="1594104693232" duration="10477000" />
+      <workItem from="1594146608487" duration="3718000" />
+      <workItem from="1594224248548" duration="7899000" />
+      <workItem from="1594306288594" duration="13121000" />
+      <workItem from="1594536324624" duration="21643000" />
+      <workItem from="1594826766956" duration="7808000" />
+      <workItem from="1594971217985" duration="3402000" />
+      <workItem from="1595169877318" duration="1212000" />
+      <workItem from="1595608241310" duration="26000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/ArrayList.java</url>
+          <line>476</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
